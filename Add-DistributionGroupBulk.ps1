@@ -3,11 +3,6 @@
 # Written by Elliott Nash
 # Created 11/03/2022
 
-# This source code is distributed under the terms of the Bad Code License.
-# You are forbidden from distributing software containing this code to end
-# users, because it is bad
-
-
 # Get name of mailbox
 $DistList = Read-Host -Prompt "Enter the name of the mailbox"
 
